@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
-<h3 align="center">An M.sc. student of Computational Neuroscience and Machine Learning 💻🧠</h3>
+<h3 align="center">A postgraduate student in Computational Neuroscience and Machine Learning 💻🧠</h3>
 
 ### Languages
 
