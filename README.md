@@ -19,8 +19,8 @@
 ### University Projects
 
 [![](https://img.shields.io/badge/-🧬%20Computer%20Vision%20For%20Autonomous%20Driving-000)](https://github.com/adamalston/v2)
-[![](https://img.shields.io/badge/-🧬%%20Modelling%20Of%20Delayed%20Neural%20Networks-000)](https://github.com/adamalston/v2)
-[![](https://img.shields.io/badge/-🧬%20Unsupervised%20Learning%20Of%20Tumour%20Data-000)](https://github.com/adamalston/v2)
+[![](https://img.shields.io/badge/-🧬%20Modelling%20Delayed%20Neural%20Networks-000)](https://github.com/adamalston/v2)
+[![](https://img.shields.io/badge/-🧬%20Clustering%20Analysis%20Of%20Tumour%20Data-000)](https://github.com/adamalston/v2)
 [![](https://img.shields.io/badge/-🧬%20Modelling%20The%20Primary%20Auditory%20Cortex-000)](https://github.com/adamalston/v2)
 
 
