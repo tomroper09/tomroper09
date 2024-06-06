@@ -19,7 +19,7 @@
 ### University Projects
 
 [![](https://img.shields.io/badge/-🧬%20Computer%20Vision%20For%20Autonomous%20Driving-000)](https://github.com/adamalston/v2)
-[![](https://img.shields.io/badge/-🧬%20Mathematical%20Modelling%20Of%Delayed%Neural%Networks-000)](https://github.com/adamalston/v2)
+[![](https://img.shields.io/badge/-🧬%20Mathematical%20Modelling%20Of%20Delayed%20Neural%20Networks-000)](https://github.com/adamalston/v2)
 [![](https://img.shields.io/badge/-🧬%20Clustering%20Analysis%20For%20Breast%20Cancer-000)](https://github.com/adamalston/v2)
 [![](https://img.shields.io/badge/-🧬%20Modelling%20The%20Primary%20Auditory%20Cortex-000)](https://github.com/adamalston/v2)
 
@@ -27,8 +27,8 @@
 ### Building Deep Learning Models From Scratch
 
 [![](https://img.shields.io/badge/-🩸%20LSTM:%20Stock%20Price%20Predictions-000)](https://github.com/adamalston/Heartbleed)
-[![](https://img.shields.io/badge/-🩸%20Convolutional%20Neural%20Networks:%20Digit%20Recognition-000)](https://github.com/adamalston/Heartbleed)
-[![](https://img.shields.io/badge/-🩸%20Generative%20Pre%20Transformers:%20Natural%20Language%20Generation-000)](https://github.com/adamalston/Heartbleed)
+[![](https://img.shields.io/badge/-🩸%20CNNs:%20Digit%20Recognition-000)](https://github.com/adamalston/Heartbleed)
+[![](https://img.shields.io/badge/-🩸%20GPTs:%20Natural%20Language%20Generation-000)](https://github.com/adamalston/Heartbleed)
 
 
 <a href="https://www.tomroper09.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=tomroper09&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomroper09&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
