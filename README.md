@@ -19,7 +19,7 @@
 ### University Projects
 
 [![](https://img.shields.io/badge/-🧬%20Computer%20Vision%20For%20Autonomous%20Driving-000)](https://github.com/adamalston/v2)
-[![](https://img.shields.io/badge/-🧬%20Modelling%20Delayed%20Neural%20Networks-000)](https://github.com/tomroper09/delayed_neural_networks)
+[![](https://img.shields.io/badge/-🧬%200Delayed%20Neural%20Networks-000)](https://github.com/tomroper09/delayed_neural_networks)
 [![](https://img.shields.io/badge/-🧬%20Clustering%20Analysis%20Of%20Tumour%20Data-000)](https://github.com/tomroper09/clustering_analysis_tumour_data)
 [![](https://img.shields.io/badge/-🧬%20Modelling%20The%20Primary%20Auditory%20Cortex-000)](https://github.com/tomroper09/RNN_auditory_cortex_modelling)
 
@@ -28,4 +28,3 @@
 
 [![](https://img.shields.io/badge/-🩸%20LSTM:%20Stock%20Price%20Predictions-000)](https://github.com/adamalston/Heartbleed)
 [![](https://img.shields.io/badge/-🩸%20CNNs:%20Digit%20Recognition-000)](https://github.com/adamalston/Heartbleed)
-[![](https://img.shields.io/badge/-🩸%20GPTs:%20Natural%20Language%20Generation-000)](https://github.com/adamalston/Heartbleed)
