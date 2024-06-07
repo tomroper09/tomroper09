@@ -27,4 +27,4 @@
 ### Personal Projects - Building Deep Learning Models From Scratch
 
 [![](https://img.shields.io/badge/-🩸%20LSTM:%20Stock%20Price%20Predictions-000)](https://github.com/adamalston/Heartbleed)
-[![](https://img.shields.io/badge/-🩸%20CNNs:%20Digit%20Recognition-000)](https://github.com/adamalston/Heartbleed)
+[![](https://img.shields.io/badge/-🩸%20CNNs:%20Digit%20Recognition-000)](https://www.kaggle.com/code/tomroper09/cnn-from-scratch)
